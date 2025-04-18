@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on creating an online K-12 AI assisted learning space.
 - 📫 How to reach me by text 503-442-7379
-- ⚡ Fun fact: I've taught peogramming, robotics and 3D modeling to Talented and Gifted kids in Oregon (20+ years)
+- ⚡ Fun fact: I've taught programming, robotics and 3D modeling to Talented and Gifted kids in Oregon (20+ years)
 
 <!---
 GypsyFly/GypsyFly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
